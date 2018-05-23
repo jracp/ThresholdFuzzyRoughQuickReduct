@@ -1,7 +1,7 @@
 ---
 title: "ThresholdFuzzyRoughQuickReduct"
 author: "Javad Rahimipour Anaraki"
-date: '22/05/18'
+date: '23/05/18'
 ---
 
 ## Use case
