@@ -4,7 +4,7 @@
 % Memorial University of Newfoundland
 % jra066 [AT] mun [DOT] ca | www.cs.mun.ca/~jra066
 
-% This is an implementation of to find Indiscernibile objects
+% This is an implementation of to find dependency degree of input feautres
 % Input: selected features
 % Output: dependency degree
 % More info: https://ieeexplore.ieee.org/document/5955425/
